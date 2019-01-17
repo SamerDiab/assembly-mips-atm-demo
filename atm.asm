@@ -2,8 +2,8 @@
 strinput1 : .space 16
 strinput2 : .space 16
 
-username : .asciiz "Reda"
-password : .asciiz "Shbib"
+username : .asciiz "Samer"
+password : .asciiz "Diab"
 balance  : .word  0
 
 login_prompt: .asciiz "\nProvide the username : "
